@@ -6,7 +6,7 @@
 
 .bar {
   width: 5vw;
-  height: calc(var(--height) * 1px);
+  height: calc(var(--height) * 10px);
   border: 0.5px solid red;
   background-color: pink;
   margin-left: 1px;
