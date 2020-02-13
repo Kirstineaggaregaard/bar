@@ -1,7 +1,7 @@
 #bars {
   display: flex;
   align-items: flex-end;
-  --height: 40;
+  --height: 90;
 }
 
 .bar {
